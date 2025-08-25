@@ -39,7 +39,7 @@ public class Mystudent {
         System.out.println("Total Marks: " + totalMarks);
         System.out.println("Average Marks: " + average);
         System.out.println("Percentage: " + percentage + "%");
-
+        System.out.println("Congraluation You Have Pass BEIT");
         sc.close();
     }
 }
