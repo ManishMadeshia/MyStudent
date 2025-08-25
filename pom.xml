@@ -39,7 +39,7 @@
 					<archive>
 						<manifest>
 							<!-- Replace with your main class (package + class) -->
-							<mainClass>mystudentpkg.mystudent</mainClass>
+							<mainClass>mystudentpkg.Mystudent</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
